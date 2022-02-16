@@ -2,8 +2,13 @@
 content_type: resource
 description: This file contains expository writing by Noel Davis on "Time for a short
   drive."
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21w-730-3-writing-and-the-environment-spring-2005/5dabea6769827b521ed536f572d7ae7c_noel_narrative.pdf
+file: /media/courses/21w-730-3-writing-and-the-environment-spring-2005/5dabea6769827b521ed536f572d7ae7c_noel_narrative.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+ocw_type: OCWFile
+parent_title: Readings
+parent_type: CourseSection
 resourcetype: Document
 title: noel_narrative.pdf
 uid: 5dabea67-6982-7b52-1ed5-36f572d7ae7c

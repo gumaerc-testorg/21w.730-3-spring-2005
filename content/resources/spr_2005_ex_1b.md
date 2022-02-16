@@ -5,8 +5,13 @@ description: This file asks students to develop a narrative framework for their 
   them reasons for remembering the place (or animal). The story need not lead  toward
   a dramatic conclusion, but it should allow to share in any insight that they derived
   from their original experience (or from writing about that experience).
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21w-730-3-writing-and-the-environment-spring-2005/22e6daa1bb82d1419564b84e9183f607_spr_2005_ex_1b.pdf
+file: /media/courses/21w-730-3-writing-and-the-environment-spring-2005/22e6daa1bb82d1419564b84e9183f607_spr_2005_ex_1b.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: spr_2005_ex_1b.pdf
 uid: 22e6daa1-bb82-d141-9564-b84e9183f607

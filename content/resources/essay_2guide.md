@@ -9,8 +9,13 @@ description: In this file students are asked to read carefully the two (or three
   readers? what would you like your readers to think about?while you will inevitably
   "compare and contrast" the articles to arrive at their insight, the essay that students
   are expected to write is not a "compare and contrast" essay.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21w-730-3-writing-and-the-environment-spring-2005/c5ebfe36590fc7909955484cd3a7ed55_essay_2guide.pdf
+file: /media/courses/21w-730-3-writing-and-the-environment-spring-2005/c5ebfe36590fc7909955484cd3a7ed55_essay_2guide.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: essay_2guide.pdf
 uid: c5ebfe36-590f-c790-9955-484cd3a7ed55
