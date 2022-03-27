@@ -16,6 +16,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: f9f47dc5-bf81-86e6-1e1a-659b85bc4357
 resourcetype: Document
 title: essay_2guide.pdf
 uid: c5ebfe36-590f-c790-9955-484cd3a7ed55

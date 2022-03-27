@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: a60fcb49-9b86-bd3a-4108-273b030f4e0d
 resourcetype: Document
 title: lowtide.pdf
 uid: 2d4aab3f-24e8-b9c3-2e63-400434b3399b

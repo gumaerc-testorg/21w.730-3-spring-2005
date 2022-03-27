@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: a60fcb49-9b86-bd3a-4108-273b030f4e0d
 resourcetype: Document
 title: mike_wnarrative.pdf
 uid: 27c78f72-89d1-8701-d4ed-d38a1d1fba83

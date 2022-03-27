@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: f9f47dc5-bf81-86e6-1e1a-659b85bc4357
 resourcetype: Document
 title: essay3_spr2005.pdf
 uid: 0788a3dc-ca8f-3bc7-4954-2645847fd14f

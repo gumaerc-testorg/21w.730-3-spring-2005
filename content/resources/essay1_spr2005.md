@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: f9f47dc5-bf81-86e6-1e1a-659b85bc4357
 resourcetype: Document
 title: essay1_spr2005.pdf
 uid: b0f19dc8-463c-59ec-4668-3f542ac608e3

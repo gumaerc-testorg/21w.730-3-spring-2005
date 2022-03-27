@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: a60fcb49-9b86-bd3a-4108-273b030f4e0d
 resourcetype: Other
 title: Noel_narrative.doc
 uid: 05422fb5-ee9f-b524-2683-08a10c4ff939

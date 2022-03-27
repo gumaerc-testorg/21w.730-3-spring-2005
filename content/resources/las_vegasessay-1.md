@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: a60fcb49-9b86-bd3a-4108-273b030f4e0d
 resourcetype: Other
 title: Las_Vegasessay.doc
 uid: 3fda8224-d36b-1777-4b65-d4fb6afb32b6

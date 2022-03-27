@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: f9f47dc5-bf81-86e6-1e1a-659b85bc4357
 resourcetype: Document
 title: spr2005_intro_ex.pdf
 uid: 3c4a7748-ac22-43bd-d21a-d23227f9b78c

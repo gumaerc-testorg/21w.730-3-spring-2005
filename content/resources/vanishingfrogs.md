@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: a60fcb49-9b86-bd3a-4108-273b030f4e0d
 resourcetype: Document
 title: vanishingfrogs.pdf
 uid: 41ad4051-dfa6-6afd-691c-5ae4c553816c

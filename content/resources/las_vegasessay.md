@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: a60fcb49-9b86-bd3a-4108-273b030f4e0d
 resourcetype: Document
 title: las_vegasessay.pdf
 uid: 44b81ebd-bece-060f-3b1e-3719e56619ce

@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: f9f47dc5-bf81-86e6-1e1a-659b85bc4357
 resourcetype: Document
 title: spr2005_ex_3b.pdf
 uid: c0727813-11c6-42bd-7d13-c5d5c8fac6a3

@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: f9f47dc5-bf81-86e6-1e1a-659b85bc4357
 resourcetype: Document
 title: spr_2005_ex_1b.pdf
 uid: 22e6daa1-bb82-d141-9564-b84e9183f607
