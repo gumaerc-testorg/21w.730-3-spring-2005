@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: The syllabus contains an overview of the course, course description,
+  readings, class participation, information on reading notebook, exercises, papers,
+  required papers, originality of work and oral presentation.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -40,7 +43,7 @@ You have the right to miss up to three classes without penalty, but you should u
 Reading Notebook
 ----------------
 
-You should write out a brief response or commentary upon each of the assignments from _Writing Nature_ and on the essays drawn from other sources. Please comment on the five student essays (available in the [readings]({{< baseurl >}}/pages/readings) section) as well. A paragraph or two per article or chapter will usually suffice. I will not grade the individual entries, but I will collect the notebooks periodically and read through your responses. On occasion, I will ask you to read a notebook entry in class.
+You should write out a brief response or commentary upon each of the assignments from _Writing Nature_ and on the essays drawn from other sources. Please comment on the five student essays (available in the {{% resource_link a60fcb49-9b86-bd3a-4108-273b030f4e0d "readings" %}} section) as well. A paragraph or two per article or chapter will usually suffice. I will not grade the individual entries, but I will collect the notebooks periodically and read through your responses. On occasion, I will ask you to read a notebook entry in class.
 
 Exercises
 ---------

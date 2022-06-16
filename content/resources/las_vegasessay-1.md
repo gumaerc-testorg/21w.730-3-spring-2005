@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/21w-730-3-writing-and-the-environment-spring-2005/3fda8224d36b17774b65d4fb6afb32b6_Las_Vegasessay.doc
+file: /courses/21w-730-3-writing-and-the-environment-spring-2005/3fda8224d36b17774b65d4fb6afb32b6_Las_Vegasessay.doc
 file_type: application/msword
 learning_resource_types:
 - Readings

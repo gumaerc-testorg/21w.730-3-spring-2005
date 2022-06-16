@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/21w-730-3-writing-and-the-environment-spring-2005/063de1dea1ee91d8cefad068e6b15d29_Mike_Wnarrative.doc
+file: /courses/21w-730-3-writing-and-the-environment-spring-2005/063de1dea1ee91d8cefad068e6b15d29_Mike_Wnarrative.doc
 file_type: application/msword
 learning_resource_types:
 - Readings

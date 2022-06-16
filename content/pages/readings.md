@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: The reading section contains list of textbooks and a table of readings
+  covering every lecture topic which helps user to undersatnd the topic in a better
+  way.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -113,9 +116,9 @@ Lopez, Barry. "Gone Back into the Earth." In _Crossing Open Ground._ New York, N
 Leopold, Aldo. "Thinking Like a Mountain." In _Sand County Almanac._ New York, NY: Ballantine Books, 1986, c.1949, pp. 129-133. ISBN: 9780345345059.
 
 Sample Student Narrative Essays:  
-([PDF]({{< baseurl >}}/resources/lowtide)) (Courtesy of Helana Kadyszewski. Used with permission.)  
-([PDF]({{< baseurl >}}/resources/mike_wnarrative)) (Courtesy of Mike Wongchaowart. Used with permission.)  
-([PDF]({{< baseurl >}}/resources/noel_narrative-1)) (Courtesy of Noel Davis. Used with permission.)
+({{% resource_link 2d4aab3f-24e8-b9c3-2e63-400434b3399b "PDF" %}}) (Courtesy of Helana Kadyszewski. Used with permission.)  
+({{% resource_link 27c78f72-89d1-8701-d4ed-d38a1d1fba83 "PDF" %}}) (Courtesy of Mike Wongchaowart. Used with permission.)  
+({{% resource_link 5dabea67-6982-7b52-1ed5-36f572d7ae7c "PDF" %}}) (Courtesy of Noel Davis. Used with permission.)
 
 
 {{< tdclose >}}
@@ -355,7 +358,7 @@ _Writing Worth Reading._ pp. 114-131 and 91-98.
 
 _Writing Nature._ pp. 541-560
 
-"Las Vegas, A Guilty Pleasure." (Sample Student Essay) ([PDF]({{< baseurl >}}/resources/las_vegasessay)) (Courtesy of Mike Wongchaowart. Used with permission.)
+"Las Vegas, A Guilty Pleasure." (Sample Student Essay) ({{% resource_link 44b81ebd-bece-060f-3b1e-3719e56619ce "PDF" %}}) (Courtesy of Mike Wongchaowart. Used with permission.)
 
 _Writing Worth Reading._ pp. 114-131 and 91-98.
 
@@ -511,7 +514,7 @@ In class: Discussion of Plagiarism
 
 "Documenting your Sources," and "Suggesting Recurrent Themes." In _Writing Worth Reading._ pp. 376-381 and 435-438.
 
-"Vanishing Frogs." (Sample Student Essay) ([PDF]({{< baseurl >}}/resources/vanishingfrogs)) (Courtesy of Mark Rosen. Used with permission.)
+"Vanishing Frogs." (Sample Student Essay) ({{% resource_link 41ad4051-dfa6-6afd-691c-5ae4c553816c "PDF" %}}) (Courtesy of Mark Rosen. Used with permission.)
 
 
 {{< tdclose >}}
