@@ -5,6 +5,7 @@ file: /courses/21w-730-3-writing-and-the-environment-spring-2005/05422fb5ee9fb52
 file_type: application/msword
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection

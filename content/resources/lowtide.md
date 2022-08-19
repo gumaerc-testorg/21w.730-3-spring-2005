@@ -5,6 +5,7 @@ file: /courses/21w-730-3-writing-and-the-environment-spring-2005/2d4aab3f24e8b9c
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lowtide.pdf
 uid: 2d4aab3f-24e8-b9c3-2e63-400434b3399b
 ---
 This file contains essay by Helana Kadyszewski on "Low tide".
-

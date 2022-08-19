@@ -6,6 +6,7 @@ file: /courses/21w-730-3-writing-and-the-environment-spring-2005/6c2872d83cfe025
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: workshop_1_spr.pdf
 uid: 6c2872d8-3cfe-025b-f04d-5e481e0717e8
 ---
 This file contains guidelines for comments and discussions for workshop I, along with questions to consider for essay I.
-

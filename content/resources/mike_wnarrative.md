@@ -6,6 +6,7 @@ file: /courses/21w-730-3-writing-and-the-environment-spring-2005/27c78f7289d1870
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: mike_wnarrative.pdf
 uid: 27c78f72-89d1-8701-d4ed-d38a1d1fba83
 ---
 This file contains expository writing, essay 1, final version by Mike Wongchaowart on "small friends".
-

@@ -7,6 +7,7 @@ file: /courses/21w-730-3-writing-and-the-environment-spring-2005/19fd76b44b8a57b
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: silentspringplan.pdf
 uid: 19fd76b4-4b8a-57bf-4e5b-94153c56979d
 ---
 This file asks students to prepare on the first eight chapters of Rachel Carson?s book Silent Spring (pp.1-127), and to discuss the content and the function of each assigned chapter.
-

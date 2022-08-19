@@ -6,6 +6,7 @@ file: /courses/21w-730-3-writing-and-the-environment-spring-2005/3c4a7748ac2243b
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: spr2005_intro_ex.pdf
 uid: 3c4a7748-ac22-43bd-d21a-d23227f9b78c
 ---
 This file offers an opportunity to students tell something about themselves and If one is freshman or sophomore, explain how and why ended up at MIT.
-

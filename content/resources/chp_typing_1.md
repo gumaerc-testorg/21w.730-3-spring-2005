@@ -8,10 +8,10 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: chp_typing_1.jpg
 uid: f7e84ede-c4d7-7a49-cdf0-0fabd1686c25
 ---
 Typing visual. (Visual by Public Domain Images)
-
