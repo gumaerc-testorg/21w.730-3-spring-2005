@@ -44,7 +44,9 @@
   },
   "course_title": "Writing and the Environment",
   "course_description": "Environmentalists have traditionally relied upon the power of their prose to transform the thoughts and behavior of their contemporaries. In this class, we will do our best to follow in their footsteps. We will consider the strategies of popular science writers, lesser-known geologists, biologists, and hydrologists, and famous environmentalists. Students will have a chance to try out several ways of characterizing and explaining natural environments. Weekly writing exercises will help students develop and explore material for the longer papers.\n",
-  "department_numbers": [],
+  "department_numbers": [
+    "CMS-W"
+  ],
   "extra_course_numbers": "",
   "primary_course_number": "21W.730-3",
   "course_image_thumbnail": {
@@ -54,6 +56,7 @@
   "learning_resource_types": [
     "Written Assignments"
   ],
-  "site_uid": "814c3023-126a-4d2d-bc59-1651483671e6",
+  "site_uid": "758acb75-f35e-4dfc-ace4-58fe40363bd7",
+  "short_id": "21w.730-3-spring-2005",
   "title": "Course Metadata"
 }
